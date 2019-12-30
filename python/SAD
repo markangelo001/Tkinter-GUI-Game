@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>My Homepage</title>
+</head>
+<body style="background:url(Activity2.jpg);
+            background-repeat:no-repeat;
+            /*background-size:100% 100%;*/
+            background-size:1366px 768px;">
+
+<center>
+    <h1 style ="font-family:georgia,garamond,serif;
+    font-size:45px;
+    font-style:italic;">Number One Teacher</h1>
+</center>
+
+<center>
+    <p style ="font-family:georgia,garamond,serif;
+    font-size:21px;
+    font-style:italic;"><strong>A</strong> Teacher should have <br><strong>A</strong>
+    special place<br><strong>In</strong> every child's heart,<br><br>
+    <strong>Because</strong> in this game of life,<br><strong>They</strong> help them get their start.
+
+    <br><br><strong>I</strong> just want to thank you,<del>{Sir Mark}</del><ins><b>
+    Sir Lester </b></ins>,
+    <br><br><strong>For</strong> all the things you've done,<br><br><strong>You're</strong> a very special teacher,
+    <br><strong>And</strong> to me you're number one!
+</center>	
